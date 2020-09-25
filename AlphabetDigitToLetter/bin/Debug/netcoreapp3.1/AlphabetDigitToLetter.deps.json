@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AlphabetDigitToLetter/1.0.0": {
+        "runtime": {
+          "AlphabetDigitToLetter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlphabetDigitToLetter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
